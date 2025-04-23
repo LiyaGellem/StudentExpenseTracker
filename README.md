@@ -25,6 +25,7 @@ A Java desktop application built using NetBeans that allows students to track an
 - `build.xml` - Build instructions for NetBeans
 
 ## Author
-- [Your Name]
-- University: [Your University Name]
-- Course: [Your Course Name]
+- Liyabona Meyeliseli
+- University: Tshwane University of Technology
+- Course: Diploma Computer Science (OOP Specialization)
+- Year: 2025
